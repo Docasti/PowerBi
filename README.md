@@ -7,6 +7,7 @@
 En este repositorio, encontrarás ejemplos y ejercicios que he realizado mientras aprendo a utilizar Power BI para analizar datos  Aprendí a importar datos desde archivos XLS y CSV a Power BI.
 
 ### Recursos y Contenido
+[Ver Diseño en Canva](https://www.canva.com/design/DAGEdwLuTio/sRMA8t8D7qCrK3rIea9Hqw/edit)
 
 ### Ejemplos de Análisis
 
